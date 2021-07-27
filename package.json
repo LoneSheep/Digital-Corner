@@ -4,6 +4,7 @@
   "description": "registration and login form using nodejs and mongoDB  where ever u r putting index.js file open terminal and run \"npm init\" so that u get node_modules...",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js"
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js -e js,html,css"
   },
